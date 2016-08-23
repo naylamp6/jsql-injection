@@ -1,10 +1,10 @@
 {
     "version": "0.77",
     "news": [
-        "[Roadmap] MS-Access database, SOAP and Restful injection, WAF tamper, Bruteforce of HTTP Auth, Arabic translation, Command line interface",
-        "[Feature] Help the community and translate jSQL into your language. Click on the top right button to show the advanced settings and open menu [Community], choose a language using [I help translate jSQL] and translate some text then click on [Send]. Your translation will be integrated to the next release by the developer",
+        "[Roadmap] MySQL error based injection using BIGINT and overflow, MS-Access database, SOAP and Restful injection, WAF tamper, Bruteforce of HTTP Auth, Arabic translation, Command line interface",
+        "[Feature] Help the community and translate jSQL into your language. Click on the top right button to show the advanced settings and open menu {Community}, choose a language using {I help translate jSQL} and translate some text then click on {Send}. Your translation will be integrated to the next release by the developer",
         "[Release] Version 0.77 fixes 3 major bugs, optimizes multithreading and contains numerous minor changes",
-        "[In progress] MySQL error based injection using BIGINT and overflow",
+        "[In progress] GUI compatibility with Right To Left languages",
     ],
     "commit": [
         "",
